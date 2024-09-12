@@ -1,3 +1,8 @@
+---
+sidebar_custom_props:
+    link: ../../../images/icon/seatunnel_starter.png
+---
+
 # AmazonSqs
 
 > AmazonSqs source connector
