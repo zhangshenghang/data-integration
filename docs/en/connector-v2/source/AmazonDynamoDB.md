@@ -1,3 +1,7 @@
+---
+sidebar_custom_props:
+    link: ../../../images/kafka.png
+---
 # AmazonDynamoDB
 
 > AmazonDynamoDB source connector
